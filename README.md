@@ -125,7 +125,7 @@ Team will be ranked primarily by AUC and then by FROC if there is a tie.
 | 5       |Mar 18, 2020 | baseline_faster-rcnn (single model) *individual participant* | 0.923 |0.800|
 | 6       |Feb 21, 2020 | [JF Healthcare baseline](https://github.com/jfhealthcare/object-CXR#baseline) (single model)  *JF Healthcare*| 0.921 |0.803|
 | 7       |May 27, 2020 | [frankNet](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *Case Western Reserve University Autonomous Vehicles Lab*| 0.918 |0.696|
-| 8       |May 27, 2020 | EfficientNet (single model)  *SITP*| 0.916 |0.726|
+| 8       |Jun 15, 2020 | EfficientNet (single model)  *SITP*| 0.916 |0.726|
 | 9       |Jun 13, 2020 | FrNet (single model) *TES_Vision* | 0.908 |0.759|
 
 

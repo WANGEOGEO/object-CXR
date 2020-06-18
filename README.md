@@ -119,14 +119,16 @@ Team will be ranked primarily by AUC and then by FROC if there is a tie.
 | Rank    | Date |  Model  | AUC| FROC|
 | ------- | -----| --------| ---| ----| 
 | 1       |Jun 7, 2020 | faster-rcnn (single model) *XVision*| 0.953 |0.839|
-| 2       |May 27, 2020 | [frankNet-v2](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *Case Western Reserve University Autonomous Vehicles Lab*| 0.935 |0.735|
-| 3       |Jun 5, 2020 | GxpNet-single (single model)  *Neusoft*| 0.932 |0.816|
-| 4       |Jun 10, 2020 | faster_rcnn (single model) *TES_Vision* | 0.924 |0.802|
-| 5       |Mar 18, 2020 | baseline_faster-rcnn (single model) *individual participant* | 0.923 |0.800|
-| 6       |Feb 21, 2020 | [JF Healthcare baseline](https://github.com/jfhealthcare/object-CXR#baseline) (single model)  *JF Healthcare*| 0.921 |0.803|
-| 7       |May 27, 2020 | [frankNet](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *Case Western Reserve University Autonomous Vehicles Lab*| 0.918 |0.696|
-| 8       |Jun 15, 2020 | EfficientNet (single model)  *SITP*| 0.916 |0.726|
-| 9       |Jun 13, 2020 | FrNet (single model) *TES_Vision* | 0.908 |0.759|
+| 2       |Jun 18, 2020 | frankNet-v5 (ensemble) *individual*| 0.946 |0.735|
+| 3       |May 27, 2020 | [frankNet-v2](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *individual*| 0.935 |0.735|
+| 4       |Jun 5, 2020 | GxpNet-single (single model)  *Neusoft*| 0.932 |0.816|
+| 5       |Jun 10, 2020 | faster_rcnn (single model) *TES_Vision* | 0.924 |0.802|
+| 6       |Mar 18, 2020 | baseline_faster-rcnn (single model) *individual participant* | 0.923 |0.800|
+| 7       |Feb 21, 2020 | [JF Healthcare baseline](https://github.com/jfhealthcare/object-CXR#baseline) (single model)  *JF Healthcare*| 0.921 |0.803|
+| 8       |May 27, 2020 | [frankNet](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *individual*| 0.918 |0.696|
+| 9       |Jun 15, 2020 | EfficientNet (single model)  *SITP*| 0.916 |0.726|
+| 10       |Jun 13, 2020 | FrNet (single model) *TES_Vision* | 0.908 |0.759|
+| 11       |Jun 18, 2020 | FasterRCNN (single model)  *SITP*| 0.904 |0.729|
 
 
 ## Prize

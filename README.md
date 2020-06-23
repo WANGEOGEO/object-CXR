@@ -119,20 +119,22 @@ Team will be ranked primarily by AUC and then by FROC if there is a tie.
 | Rank    | Date |  Model  | AUC| FROC|
 | ------- | -----| --------| ---| ----| 
 | 1       |Jun 7, 2020 | faster-rcnn (single model) *XVision*| 0.953 |0.839|
-| 2       |Jun 19, 2020 | frankNet-v6 (ensemble) *individual*| 0.948 |0.735|
-| 3       |Jun 18, 2020 | frankNet-v5 (ensemble) *individual*| 0.946 |0.735|
-| 4       |Jun 23, 2020 | TimNetV2 (single model) *individual* | 0.938 |0.052|
-| 5       |May 27, 2020 | [frankNet-v2](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *individual*| 0.935 |0.735|
-| 6       |Jun 18, 2020 | FrNet-v2 (single model) *TES_Vision* | 0.934 |0.819|
-| 7       |Jun 5, 2020 | GxpNet-single (single model)  *Neusoft*| 0.932 |0.816|
-| 8       |Jun 18, 2020 | TimNetV1 (single model) *individual* | 0.930 |0.810|
-| 9       |Jun 10, 2020 | faster_rcnn (single model) *TES_Vision* | 0.924 |0.802|
-| 10       |Mar 18, 2020 | baseline_faster-rcnn (single model) *individual participant* | 0.923 |0.800|
-| 11       |Feb 21, 2020 | [JF Healthcare baseline](https://github.com/jfhealthcare/object-CXR#baseline) (single model)  *JF Healthcare*| 0.921 |0.803|
-| 12       |May 27, 2020 | [frankNet](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *individual*| 0.918 |0.696|
-| 13       |Jun 15, 2020 | EfficientNet (single model)  *SITP*| 0.916 |0.726|
-| 14       |Jun 13, 2020 | FrNet (single model) *TES_Vision* | 0.908 |0.759|
-| 15       |Jun 18, 2020 | FasterRCNN (single model)  *SITP*| 0.904 |0.729|
+| 2       |Jun 23, 2020 | FasterRCNN (single model) *individual*| 0.951 |0.092|
+| 3       |Jun 19, 2020 | frankNet-v6 (ensemble) *individual*| 0.948 |0.735|
+| 4       |Jun 18, 2020 | frankNet-v5 (ensemble) *individual*| 0.946 |0.735|
+| 5       |Jun 23, 2020 | TimNetV2 (single model) *individual* | 0.938 |0.052|
+| 6       |May 27, 2020 | [frankNet-v2](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *individual*| 0.935 |0.735|
+| 7       |Jun 18, 2020 | FrNet-v2 (single model) *TES_Vision* | 0.934 |0.819|
+| 8       |Jun 5, 2020 | GxpNet-single (single model)  *Neusoft*| 0.932 |0.816|
+| 9       |Jun 18, 2020 | TimNetV1 (single model) *individual* | 0.930 |0.810|
+| 10       |Jun 23, 2020 | efficient_rcnn (single model) *NWPU* | 0.924 |0.812|
+| 11       |Jun 10, 2020 | faster_rcnn (single model) *TES_Vision* | 0.924 |0.802|
+| 12       |Mar 18, 2020 | baseline_faster-rcnn (single model) *individual participant* | 0.923 |0.800|
+| 13       |Feb 21, 2020 | [JF Healthcare baseline](https://github.com/jfhealthcare/object-CXR#baseline) (single model)  *JF Healthcare*| 0.921 |0.803|
+| 14       |May 27, 2020 | [frankNet](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *individual*| 0.918 |0.696|
+| 15       |Jun 15, 2020 | EfficientNet (single model)  *SITP*| 0.916 |0.726|
+| 16       |Jun 13, 2020 | FrNet (single model) *TES_Vision* | 0.908 |0.759|
+| 17       |Jun 18, 2020 | FasterRCNN (single model)  *SITP*| 0.904 |0.729|
 
 
 ## Prize

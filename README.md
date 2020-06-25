@@ -119,7 +119,7 @@ Team will be ranked primarily by AUC and then by FROC if there is a tie.
 | Rank    | Date |  Model  | AUC| FROC|
 | ------- | -----| --------| ---| ----| 
 | 1       |Jun 7, 2020 | faster-rcnn (single model) *XVision*| 0.953 |0.839|
-| 2       |Jun 25, 2020 | SCNet (ensemble model) *ShenzhenUniversity*| 0.952 |0.808|
+| 2       |Jun 25, 2020 | SCNet (ensemble) *ShenzhenUniversity*| 0.952 |0.808|
 | 3       |Jun 25, 2020 | FasterRCNN (single model) *individual*| 0.951 |0.852|
 | 4       |Jun 23, 2020 | FasterRCNN (single model) *individual*| 0.951 |0.092|
 | 5       |Jun 19, 2020 | frankNet-v6 (ensemble) *individual*| 0.948 |0.735|

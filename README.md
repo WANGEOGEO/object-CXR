@@ -118,7 +118,7 @@ Team will be ranked primarily by AUC and then by FROC if there is a tie.
 
 | Rank    | Date |  Model  | AUC| FROC|
 | ------- | -----| --------| ---| ----| 
-| 1       |Jun 28, 2020 | FrNet-v3 (single model) *TES_Vision* | 0.961 |0.785|
+| 1       |Jun 28, 2020 | FrNet-v3 (ensemble) *TES_Vision* | 0.961 |0.785|
 | 2       |Jun 7, 2020 | faster-rcnn (single model) *XVision*| 0.953 |0.839|
 | 3       |Jun 29, 2020 | frankNet-v10.b (ensemble) *individual*| 0.953 |0.837|
 | 4       |Jun 26, 2020 | frankNet-v9 (ensemble) *individual*| 0.953 |0.735|

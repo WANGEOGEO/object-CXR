@@ -117,39 +117,47 @@ The competition lasts from Feb/15/2020-Jun/30/2020 23:59 PDT, and the final resu
 Team will be ranked primarily by AUC and then by FROC if there is a tie.
 
 | Rank    | Date |  Model  | AUC| FROC|
-| ------- | -----| --------| ---| ----| 
-| 1       |Jun 28, 2020 | FrNet-v3 (ensemble) *TES_Vision* | 0.961 |0.785|
-| 2       |Jun 29, 2020 | XSD-v2 (single model) *TU Berlin*| 0.959 |0.825|
-| 3       |Jun 30, 2020 | faster-rcnn-v3 (ensemble) *XVision-Romania*| 0.957 |0.822|
-| 4       |Jun 29, 2020 | faster-rcnn-v2 (ensemble) *XVision-Romania*| 0.955 |0.822|
-| 5       |Jun 7, 2020 | faster-rcnn (single model) *XVision*| 0.953 |0.839|
-| 6       |Jun 29, 2020 | frankNet-v10.b (ensemble) *individual*| 0.953 |0.837|
-| 7       |Jun 26, 2020 | frankNet-v9 (ensemble) *individual*| 0.953 |0.735|
-| 8       |Jun 25, 2020 | SCNet (ensemble) *ShenzhenUniversity*| 0.952 |0.808|
-| 9       |Jun 25, 2020 | FasterRCNN (single model) *individual*| 0.951 |0.852|
-| 10      |Jun 26, 2020 | XSD (single model) *TU Berlin*| 0.951 |0.788|
-| 11      |Jun 23, 2020 | FasterRCNN (single model) *individual*| 0.951 |0.092|
-| 12      |Jun 19, 2020 | frankNet-v6 (ensemble) *individual*| 0.948 |0.735|
-| 13      |Jun 18, 2020 | frankNet-v5 (ensemble) *individual*| 0.946 |0.735|
-| 14      |Jun 26, 2020 | MNet (single model) *individual*| 0.945 |0.812|
-| 15      |Jun 23, 2020 | TimNetV2 (single model) *individual* | 0.938 |0.052|
-| 16      |Jun 24, 2020 | TimNetV3 (single model) *individual* | 0.937 |0.811|
-| 17      |May 27, 2020 | [frankNet-v2](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *individual*| 0.935 |0.735|
-| 18      |Jun 18, 2020 | FrNet-v2 (single model) *TES_Vision* | 0.934 |0.819|
-| 19      |Jun 30, 2020 | FRCNN_R152_FPN_2x_DA (single model) *Istanbul Technical University*| 0.933 |0.780|
-| 20      |Jun 5, 2020 | GxpNet-single (single model)  *Neusoft*| 0.932 |0.816|
-| 21      |Jun 28, 2020 | efficient_rcnn-v3 (single model) *NWPU* | 0.930 |0.825|
-| 22      |Jun 18, 2020 | TimNetV1 (single model) *individual* | 0.930 |0.810|
-| 23      |Jun 25, 2020 | efficient_rcnn-v2 (single model) *NWPU* | 0.929 |0.823|
-| 24      |Jun 23, 2020 | efficient_rcnn (single model) *NWPU* | 0.924 |0.812|
-| 25      |Jun 10, 2020 | faster_rcnn (single model) *TES_Vision* | 0.924 |0.802|
-| 26      |Mar 18, 2020 | baseline_faster-rcnn (single model) *individual participant* | 0.923 |0.800|
-| 27      |Feb 21, 2020 | [JF Healthcare baseline](https://github.com/jfhealthcare/object-CXR#baseline) (single model)  *JF Healthcare*| 0.921 |0.803|
-| 28      |May 27, 2020 | [frankNet](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *individual*| 0.918 |0.696|
-| 29      |Jun 15, 2020 | EfficientNet (single model)  *SITP*| 0.916 |0.726|
-| 30      |Jun 13, 2020 | FrNet (single model) *TES_Vision* | 0.908 |0.759|
-| 31      |Jun 18, 2020 | FasterRCNN (single model)  *SITP*| 0.904 |0.729|
-| 32      |Jun 23, 2020 | YOLO V3 (single model)  *USST*| 0.897 |0.759|
+| ------- | -----| --------| ---| ----|
+| 1       |Jun 30, 2020 | XSD-v3 (ensemble) *TU Berlin*| 0.963 |0.851|
+| 2       |Jun 28, 2020 | FrNet-v3 (ensemble) *TES_Vision* | 0.961 |0.785|
+| 3       |Jun 30, 2020 | SSCNet (ensemble) *ShenzhenUniversity* | 0.960 |0.810|
+| 4       |Jun 29, 2020 | XSD-v2 (single model) *TU Berlin*| 0.959 |0.825|
+| 5       |Jun 30, 2020 | faster-rcnn-v3 (ensemble) *XVision-Romania*| 0.957 |0.822|
+| 6       |Jun 29, 2020 | faster-rcnn-v2 (ensemble) *XVision-Romania*| 0.955 |0.822|
+| 7       |Jun 7, 2020 | faster-rcnn (single model) *XVision*| 0.953 |0.839|
+| 8       |Jun 29, 2020 | frankNet-v10.b (ensemble) *individual*| 0.953 |0.837|
+| 9       |Jun 26, 2020 | frankNet-v9 (ensemble) *individual*| 0.953 |0.735|
+| 10     |Jun 25, 2020 | SCNet (ensemble) *ShenzhenUniversity*| 0.952 |0.808|
+| 11    |Jun 25, 2020 | FasterRCNN (single model) *individual*| 0.951 |0.852|
+| 12    |Jun 30, 2020 | FasterRCNN (single model) *individual*| 0.951 |0.845|
+| 13    |Jun 26, 2020 | XSD (single model) *TU Berlin*| 0.951 |0.788|
+| 14    |Jun 23, 2020 | FasterRCNN (single model) *individual*| 0.951 |0.092|
+| 15    |Jun 19, 2020 | frankNet-v6 (ensemble) *individual*| 0.948 |0.735|
+| 16    |Jun 18, 2020 | frankNet-v5 (ensemble) *individual*| 0.946 |0.735|
+| 17    |Jun 26, 2020 | MNet (single model) *individual*| 0.945 |0.812|
+| 18    |Jun 23, 2020 | TimNetV2 (single model) *individual* | 0.938 |0.052|
+| 19    |Jun 24, 2020 | TimNetV3 (single model) *individual* | 0.937 |0.811|
+| 20    |Jun 30, 2020 | R_34_1x_DA (single model) *Istanbul Technical University*| 0.937 |0.007|
+| 21    |May 27, 2020 | [frankNet-v2](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *individual*| 0.935 |0.735|
+| 22    |Jun 30, 2020 | efficient_rcnn-v4 (ensemble) *NWPU* | 0.934 |0.823|
+| 23    |Jun 18, 2020 | FrNet-v2 (single model) *TES_Vision* | 0.934 |0.819|
+| 24    |Jun 30, 2020 | FRCNN_R152_FPN_2x_DA (single model) *Istanbul Technical University*| 0.933 |0.780|
+| 25    |Jun 5, 2020 | GxpNet-single (single model)  *Neusoft*| 0.932 |0.816|
+| 26    |Jun 28, 2020 | efficient_rcnn-v3 (single model) *NWPU* | 0.930 |0.825|
+| 27    |Jun 18, 2020 | TimNetV1 (single model) *individual* | 0.930 |0.810|
+| 28    |Jun 25, 2020 | efficient_rcnn-v2 (single model) *NWPU* | 0.929 |0.823|
+| 29    |Jun 23, 2020 | efficient_rcnn (single model) *NWPU* | 0.924 |0.812|
+| 30    |Jun 10, 2020 | faster_rcnn (single model) *TES_Vision* | 0.924 |0.802|
+| 31    |Mar 18, 2020 | baseline_faster-rcnn (single model) *individual participant* | 0.923 |0.800|
+| 32    |Feb 21, 2020 | [JF Healthcare baseline](https://github.com/jfhealthcare/object-CXR#baseline) (single model)  *JF Healthcare*| 0.921 |0.803|
+| 33    |Jun 30, 2020 | fasterRcnn (single model)  *North South University*| 0.921 |0.751|
+| 34    |May 27, 2020 | [frankNet](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *individual*| 0.918 |0.696|
+| 35    |Jun 15, 2020 | EfficientNet (single model)  *SITP*| 0.916 |0.726|
+| 36    |Jun 13, 2020 | FrNet (single model) *TES_Vision* | 0.908 |0.759|
+| 37    |Jun 30, 2020 | FasterRCNN (single model) *ITU Vision Lab* | 0.908 |0.773|
+| 38    |Jun 18, 2020 | FasterRCNN (single model)  *SITP*| 0.904 |0.729|
+| 39    |Jun 30, 2020 | YOLO V3 (single model)  *individual*| 0.903 |0.674|
+| 40    |Jun 23, 2020 | YOLO V3 (single model)  *USST*| 0.897 |0.759|
 
 
 ## Prize

@@ -111,7 +111,30 @@ We provide a baseline result in this [Jupyter Notebook](https://github.com/jfhea
 We host the online submission system at [codalab](https://worksheets.codalab.org/worksheets/0xcd2fb3db8ae74d03b53ad4c5bf81ebe2)
 
 ## Timeline
-The competition lasts from ~~Feb/15/2020-Jun/30/2020 23:59 PDT~~ ended. The [MIDL 2020](https://2020.midl.io/challenges.html) objec-CXR workshop will be held during July/9 9:00-13:00 UTC-4. The zoom link for the virtual workshop will be provided shortly.
+The competition lasts from ~~Feb/15/2020-Jun/30/2020 23:59 PDT~~ ended. The [MIDL 2020](https://2020.midl.io/challenges.html) objec-CXR workshop will be held during July/9 9:00-13:00 UTC-4. The zoom link for the virtual workshop:
+
+```
+Topic: object-CXR
+Time: Jul 9, 2020 09:00 AM Guyana
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/87251326359
+
+Meeting ID: 872 5132 6359
+One tap mobile
++16699006833,,87251326359# US (San Jose)
++13462487799,,87251326359# US (Houston)
+
+Dial by your location
+        +1 669 900 6833 US (San Jose)
+        +1 346 248 7799 US (Houston)
+        +1 253 215 8782 US (Tacoma)
+        +1 301 715 8592 US (Germantown)
+        +1 312 626 6799 US (Chicago)
+        +1 929 205 6099 US (New York)
+Meeting ID: 872 5132 6359
+Find your local number: https://us02web.zoom.us/u/knQOECG6V
+```
 
 ## Leaderboard
 Team will be ranked primarily by AUC and then by FROC if there is a tie.

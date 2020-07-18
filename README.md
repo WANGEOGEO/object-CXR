@@ -63,6 +63,8 @@ Three type of shapes are used namely rectangle, ellipse and polygon. We use `0`,
 The training and validation dataset can be accessed here at [Google Drive](https://drive.google.com/drive/folders/1SubfNALJn6aO56lUYeJsVpFLZuXurlBC) and [Baidu Pan](https://pan.baidu.com/s/1eVL5FLphy0dZXk7xxI6GEw)(access code : fpwq). The imaging data has been
 anonymousized and free to download for scientific research and non-commercial usage. 
 
+**Update 2020-07-18:** the testing dataset and the corresponding annotations can be accessed here at [images](https://worksheets.codalab.org/bundles/0x94f8f15c0d5c4c4c8acfa9a2f03a45e7), [annotations](https://worksheets.codalab.org/bundles/0x89c1dc96670142818b5a3e025fa80cc4)
+
 The usage of this data is under CC-BY-NC-4.0 license.
 
 
